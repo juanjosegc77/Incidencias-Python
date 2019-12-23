@@ -5,7 +5,7 @@ Proyecto de Incidencias en su versión Python
 ## Descripción
 
 Este proyecto, es una versión en Python no terminada de la aplicación Incidencias realizado en JAVA, también disponible en esta cuenta.
-Se utilizó el lenguaje de programación Python3. Para la interfaz gráfica se utilizó Qt5 (para la versión aquí disponible). La conexión y consulta a la base de datos se lleva a cabo mediante SQLite.
+Se utilizó el lenguaje de programación Python3. Para la interfaz gráfica se utilizó Qt5 (para la versión aquí disponible). La conexión y consulta a la base de datos se lleva a cabo mediante SQLite3.30.
 
 La base de datos "incidencias" tiene 2 tablas: "alfabetico" y "vaclic". Dichas tablas están relacionadas por el campo "id" de la tabla alfabetico.
 * alfabetico - sirve para administrar todos los datos generales de los empleados.
